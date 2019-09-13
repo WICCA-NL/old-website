@@ -10,5 +10,14 @@
 	<atom:link href="https://womenofwicca.nl/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Contact</title>
+      <link>https://womenofwicca.nl/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://womenofwicca.nl/contact/</guid>
+      <description>Want Contact? Have questions or suggestions? Feel free to open an issue on GitHub or ask me on Twitter.</description>
+    </item>
+    
   </channel>
 </rss>
