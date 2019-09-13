@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on WICCA NL</title>
-    <link>https://www.womenofwicca.nl/tags/</link>
+    <link>https://womenofwicca.nl/tags/</link>
     <description>Recent content in Tags on WICCA NL</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="https://www.womenofwicca.nl/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://womenofwicca.nl/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
