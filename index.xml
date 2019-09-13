@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>WICCA NL</title>
+    <title>WICCA</title>
     <link>https://womenofwicca.nl/</link>
-    <description>Recent content on WICCA NL</description>
+    <description>Recent content on WICCA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
@@ -27,7 +27,7 @@ Our goal is to bring infosec ladies and female security enthusiasts together to 
       
       <guid>https://womenofwicca.nl/contact/</guid>
       <description>How to get in touch with us Have questions or suggestions? Feel free to contact us at info@womenofwicca.nl.
-We also have a WICCA mailing list to keep subscribers up-to-date with our events. If you wish to be added, just drop us a mail! :ssmile:</description>
+We also have a WICCA mailing list to keep subscribers up-to-date with our events. If you wish to be added, just drop us a mail! 😄</description>
     </item>
     
   </channel>
