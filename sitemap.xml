@@ -3,15 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://womenofwicca.nl/events/hardwear/</loc>
+    <lastmod>2019-09-13T22:13:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://womenofwicca.nl/events/</loc>
+    <lastmod>2019-09-13T22:13:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://womenofwicca.nl/</loc>
+    <lastmod>2019-09-13T22:13:20+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://womenofwicca.nl/about/</loc>
   </url>
   
   <url>
     <loc>https://womenofwicca.nl/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>https://womenofwicca.nl/</loc>
   </url>
   
 </urlset>
