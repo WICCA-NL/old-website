@@ -25,17 +25,6 @@ This session takes place during the hardwear.io week, right after the trainings 
     </item>
     
     <item>
-      <title>Offensive Security 101</title>
-      <link>https://womenofwicca.nl/archives/offensive-security-101/</link>
-      <pubDate>Wed, 25 Sep 2019 10:00:00 +0200</pubDate>
-      
-      <guid>https://womenofwicca.nl/archives/offensive-security-101/</guid>
-      <description>Sat, May 25, 10:00 AM to Sun, May 26, 5:00 PM Location: []()
-WICCA is giving a two-day training in Offensive Security especially for beginners. Securify is hosting us in their Sloterdijk office and will be providing lunch and Club Mate!
-The training will include: - Basic infrastructure and web introduction - Network vulnerability scanning - Offensive Security tooling - Web application pwnage - OWASP Top 10 - Kernel exploits - A tiny bit about malware reversing - A Hackback CTF-like game - Demos and more demos!</description>
-    </item>
-    
-    <item>
       <title>Dutch Police: The Fight Against Cybercrime</title>
       <link>https://womenofwicca.nl/events/dutch-police/</link>
       <pubDate>Mon, 23 Sep 2019 18:00:00 +0200</pubDate>
@@ -46,6 +35,18 @@ WICCA is going awol to a session organised together with Team High Tech Crime an
 Deloitte will be hosting us all with food and drinks.
 Are you a woman working or interested in security and cyber crime? Stay tuned!
 Sign up on Meetup </description>
+    </item>
+    
+    <item>
+      <title>Offensive Security 101</title>
+      <link>https://womenofwicca.nl/archives/offensive-security-101/</link>
+      <pubDate>Sat, 25 May 2019 10:00:00 +0200</pubDate>
+      
+      <guid>https://womenofwicca.nl/archives/offensive-security-101/</guid>
+      <description>Sat, May 25, 10:00 AM to Sun, May 26, 5:00 PM Location: Securify
+WICCA is giving a two-day training in Offensive Security especially for beginners. Securify is hosting us in their Sloterdijk office and will be providing lunch and Club Mate!
+The training will include:
+ Basic infrastructure and web introduction Network vulnerability scanning Offensive Security tooling Web application pwnage OWASP Top 10 Kernel exploits A tiny bit about malware reversing A Hackback CTF-like game Demos and more demos!</description>
     </item>
     
     <item>
@@ -67,7 +68,8 @@ null is India&amp;rsquo;s largest open security community with chapters all over
       <guid>https://womenofwicca.nl/archives/hacking-hoomans/</guid>
       <description>Thu, Apr 25, 6:00 PM to 9:00 PM Location: Deloitte Amsterdam
  Humans are the weakest link in the information security chain.
-  everyone in infosec  This evening is hosted by Deloitte (thank you, Andrea!) and we will talk about all things physical security. Additionally, Deloitte will be providing food and drinks!
+ -&amp;gt; everyone in infosec
+This evening is hosted by Deloitte (thank you, Andrea!) and we will talk about all things physical security. Additionally, Deloitte will be providing food and drinks!
 Are you a woman interested or working in security? Sign up!
 This isn&amp;rsquo;t going to be a formal presentation but something more like a casual workshop where we share our fun social engineering experiences and talk about breaking into buildings.</description>
     </item>
@@ -78,7 +80,7 @@ This isn&amp;rsquo;t going to be a formal presentation but something more like a
       <pubDate>Mon, 25 Mar 2019 07:57:12 +0200</pubDate>
       
       <guid>https://womenofwicca.nl/archives/fireeye/</guid>
-      <description>Mon, Mar 25, 6:00 PM Location: Singel 236
+      <description>Mon, Mar 25, 6:00 PM to 9:00 PM Location: Singel 236
 Are you a woman working or interested in computer security? Sign up!
 This time, FireEye is inviting the ladies of InfoSec and female security enthusiasts in The Netherlands for a casual get-together in Amsterdam.
 FireEye will be hosting us at their office by Dam Square and is providing drinks and snacks.
