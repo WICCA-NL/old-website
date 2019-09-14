@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Archives on WICCA</title>
+    <link>https://womenofwicca.nl/archives/</link>
+    <description>Recent content in Archives on WICCA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 31 Jan 2019 18:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://womenofwicca.nl/archives/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Ladies of InfoSec</title>
+      <link>https://womenofwicca.nl/archives/ladies-of-infosec/</link>
+      <pubDate>Thu, 31 Jan 2019 18:00:00 +0200</pubDate>
+      
+      <guid>https://womenofwicca.nl/archives/ladies-of-infosec/</guid>
+      <description>Thu, Jan 31, 6:00 PM Location: KPN Teleport
+Are you a woman working or interested in computer security? Sign up!
+It&amp;rsquo;s time to kickoff the WICCA initiative with a casual get together, inviting the ladies of InfoSec and female security enthusiasts in The Netherlands to join us in Amsterdam. We will introduce ourselves and present on computer security-related topics, but most of all, make bad crypto jokes.
+KPN will be hosting us at their office by Amsterdam Sloterdijk and is providing free (vegan) pizza.</description>
+    </item>
+    
+  </channel>
+</rss>
