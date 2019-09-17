@@ -1,41 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>WICCA</title>
-    <link>https://womenofwicca.nl/</link>
-    <description>Recent content on WICCA</description>
+    <title>Archives on WICCA</title>
+    <link>https://womenofwicca.nl/archives/</link>
+    <description>Recent content in Archives on WICCA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Sep 2019 18:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 30 Aug 2019 18:00:00 +0200</lastBuildDate>
     
-	<atom:link href="https://womenofwicca.nl/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://womenofwicca.nl/archives/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>WICCA Goes Hardwear!</title>
-      <link>https://womenofwicca.nl/events/wicca-goes-hardwear/</link>
-      <pubDate>Wed, 25 Sep 2019 18:00:00 +0200</pubDate>
-      
-      <guid>https://womenofwicca.nl/events/wicca-goes-hardwear/</guid>
-      <description>Wed, Sep 25, 6:00 PM to 9:00 PM Location: Hotel NH Den Haag
-Great news!!! The organisers of hardwear.io have invited us for a special women-only session on hardware security!
-Hardwear.io is the biggest hardware security conference in Europe, and possibly in the world. It is a platform where researchers showcase and discuss their innovative research on attacking and defending hardware.
-https://hardwear.io/netherlands-2019/
-This session takes place during the hardwear.io week, right after the trainings and before the official conference starts, directly at the venue in The Hague WTC.</description>
-    </item>
-    
-    <item>
-      <title>Dutch Police: Fighting Cybercrime with OSINT</title>
-      <link>https://womenofwicca.nl/events/dutch-police/</link>
-      <pubDate>Mon, 23 Sep 2019 18:00:00 +0200</pubDate>
-      
-      <guid>https://womenofwicca.nl/events/dutch-police/</guid>
-      <description>Mon, Sep 23, 6:00 PM to 9:00 PM Location: Deloitte Amsterdam
-WICCA is going awol to a session organised together with Team High Tech Crime and Team Digitale Opsporing, the Dutch police cyber units.
-This session is WOMEN-ONLY.
-Deloitte will be hosting us all with food and drinks.
-Would you like to know more about Open Source Intelligence (OSINT)? Have you ever wondered what it is like to work at the Dutch Police?</description>
-    </item>
     
     <item>
       <title>Secure Coding (... or the Art of Avoiding Data Breaches)</title>
@@ -141,56 +115,6 @@ Do you have an interesting hacker story to tell? Something that happened to you 
       <description>Thu, Jan 31, 6:00 PM to 9:00 PM Location: KPN Teleport
 Are you a woman working or interested in computer security? Sign up!
 It&amp;rsquo;s time to kickoff the WICCA initiative with a casual get together, inviting the ladies of InfoSec and female security enthusiasts in The Netherlands to join us in Amsterdam. We will introduce ourselves and present on computer security-related topics, but most of all, make bad crypto jokes.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://womenofwicca.nl/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://womenofwicca.nl/about/</guid>
-      <description>What is WICCA? WICCA is a circle of women in cybersecurity based out in Amsterdam and surroundings with a vision to spread the infosec word to everyone.
-Our goal is to bring infosec ladies and female security enthusiasts together to learn about exploits, hacking, incident response, forensics, the low-level stuff, and especially make bad crypto jokes! We want to build a community of badass women in the Netherlands and hopefully inspire future generations to join keyboards and get the hacking started!</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://womenofwicca.nl/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://womenofwicca.nl/contact/</guid>
-      <description>How to get in touch with us Have questions or suggestions? Feel free to contact us at info@womenofwicca.nl.
-We also have a WICCA mailing list to keep subscribers up-to-date with our events. If you wish to be added, just drop us a mail! 😄</description>
-    </item>
-    
-    <item>
-      <title>Donate to WICCA</title>
-      <link>https://womenofwicca.nl/donate/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://womenofwicca.nl/donate/</guid>
-      <description>WICCA currently does not accept any cash donations.
-If you wish to still donate something to make our events even greater, it can be in terms of:
- Stickers (there&amp;rsquo;s never enough stickers!) T-shirts and other WICCA goodies Food and/or drinks for an event Tickets to a large event for our members &amp;hellip; more creative things!  You can contact donate@womenofwicca.nl, we will be highly grateful!</description>
-    </item>
-    
-    <item>
-      <title>Gallery</title>
-      <link>https://womenofwicca.nl/gallery/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://womenofwicca.nl/gallery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wick-Ed</title>
-      <link>https://womenofwicca.nl/wick-ed/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://womenofwicca.nl/wick-ed/</guid>
-      <description> Wick-Ed is the WICCA initiative to teach aspiring female security newcomers about computer security. Wick-Ed courses include recorded introductory lessons on offensive security, binary exploitation, and more to come. The Wick-Ed collection of recorded lessons can be found on YouTube.
-Playlist  Offensive Security  </description>
     </item>
     
   </channel>
