@@ -6,10 +6,22 @@
     <description>Recent content on WICCA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Oct 2019 18:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2019 18:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://womenofwicca.nl/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ING: Hacking a Bank</title>
+      <link>https://womenofwicca.nl/events/ing-ctf/</link>
+      <pubDate>Wed, 27 Nov 2019 18:00:00 +0200</pubDate>
+      
+      <guid>https://womenofwicca.nl/events/ing-ctf/</guid>
+      <description>Mon, Sep 23, 6:00 PM to 9:00 PM Location: ING HUB
+ING is inviting WICCA to their awesome open-for-all CTF!
+How to teach anyone to be a hacker
+Normally, Capture the Flag (CTF) events are organised for security enthusiasts only. This means that non-technical people are often overlooked and remain in the dark. In this session, ING will show you how you can use CTF events to teach anyone a basic level of hacking so they can defend themselves better against threats in their daily life.</description>
+    </item>
     
     <item>
       <title>Fox-IT</title>
