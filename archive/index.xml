@@ -6,10 +6,24 @@
     <description>Recent content in Archives on WICCA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Oct 2019 18:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2019 18:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://womenofwicca.nl/archive/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ING: Hacking a Bank</title>
+      <link>https://womenofwicca.nl/archive/ing-ctf/</link>
+      <pubDate>Wed, 27 Nov 2019 18:00:00 +0200</pubDate>
+      
+      <guid>https://womenofwicca.nl/archive/ing-ctf/</guid>
+      <description>Wed, Nov 27, 6:00 PM to 9:00 PM Location: ING HUB
+HUB consists of 3 buildings: A, B and C. ING will organise this at the ground floor of the C-building, which is the long building facing Hotel Levell.
+ING is inviting WICCA to their awesome open-for-all CTF!
+Bring a laptop with Internet access!
+How to teach anyone to be a hacker
+Normally, Capture the Flag (CTF) events are organised for security enthusiasts only.</description>
+    </item>
     
     <item>
       <title>Fox-IT</title>

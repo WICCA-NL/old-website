@@ -6,10 +6,53 @@
     <description>Recent content in Events on WICCA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Dec 2019 18:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2020 18:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://womenofwicca.nl/events/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Xebia</title>
+      <link>https://womenofwicca.nl/events/xebia/</link>
+      <pubDate>Tue, 07 Apr 2020 18:00:00 +0200</pubDate>
+      
+      <guid>https://womenofwicca.nl/events/xebia/</guid>
+      <description>Tue, Apr 7, 6:00 PM to 9:00 PM Location: Amsterdam
+This meetup is organised by Xebia.
+Stay tuned.</description>
+    </item>
+    
+    <item>
+      <title>Hardware Hacking 101 @Zerocopter</title>
+      <link>https://womenofwicca.nl/events/hardware-hacking-101/</link>
+      <pubDate>Thu, 26 Mar 2020 18:00:00 +0200</pubDate>
+      
+      <guid>https://womenofwicca.nl/events/hardware-hacking-101/</guid>
+      <description>Thu, Mar 26, 6:00 PM to 9:00 PM Location: Amsterdam
+Stay tuned.</description>
+    </item>
+    
+    <item>
+      <title>Secura</title>
+      <link>https://womenofwicca.nl/events/secura/</link>
+      <pubDate>Wed, 26 Feb 2020 18:00:00 +0200</pubDate>
+      
+      <guid>https://womenofwicca.nl/events/secura/</guid>
+      <description>Wed, Feb 26, 6:00 PM to 9:00 PM Location: Amsterdam
+This meetup is organised by Secura.
+Stay tuned.</description>
+    </item>
+    
+    <item>
+      <title>NFI</title>
+      <link>https://womenofwicca.nl/events/nfi/</link>
+      <pubDate>Thu, 30 Jan 2020 18:00:00 +0200</pubDate>
+      
+      <guid>https://womenofwicca.nl/events/nfi/</guid>
+      <description>Thu, Jan 30, 6:00 PM to 9:00 PM Location: The Hague
+This meetup is organised by the Dutch Forensics Institute. The date is still subject to change.
+Stay tuned.</description>
+    </item>
     
     <item>
       <title>Hack The Box NL</title>
@@ -21,20 +64,6 @@
 Hack The Box, the popular online platform to test and advance penetration testing skills, has partnered up with the WICCA team to organise meetups in the Netherlands, where everyone can go crazy inside a HTB lab and hack the planet!!!!!!1!
 EVERYONE is welcome to join the HTB Meetup group, and especially WICCA members!
 To participate to this hacking adventure, register to the HTB NL group above and sign up for our first event on December 9.</description>
-    </item>
-    
-    <item>
-      <title>ING: Hacking a Bank</title>
-      <link>https://womenofwicca.nl/events/ing-ctf/</link>
-      <pubDate>Wed, 27 Nov 2019 18:00:00 +0200</pubDate>
-      
-      <guid>https://womenofwicca.nl/events/ing-ctf/</guid>
-      <description>Wed, Nov 27, 6:00 PM to 9:00 PM Location: ING HUB
-HUB consists of 3 buildings: A, B and C. ING will organise this at the ground floor of the C-building, which is the long building facing Hotel Levell.
-ING is inviting WICCA to their awesome open-for-all CTF!
-Bring a laptop with Internet access!
-How to teach anyone to be a hacker
-Normally, Capture the Flag (CTF) events are organised for security enthusiasts only.</description>
     </item>
     
   </channel>
