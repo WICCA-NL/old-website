@@ -10,49 +10,22 @@
     
 	<atom:link href="https://womenofwicca.nl/events/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Xebia</title>
-      <link>https://womenofwicca.nl/events/xebia/</link>
-      <pubDate>Tue, 07 Apr 2020 18:00:00 +0200</pubDate>
-      
-      <guid>https://womenofwicca.nl/events/xebia/</guid>
-      <description>Tue, Apr 7, 6:00 PM to 9:00 PM Location: Amsterdam
-This meetup is organised by Xebia.
-Stay tuned.</description>
-    </item>
-    
-    <item>
-      <title>Hardware Hacking 101 @Zerocopter</title>
-      <link>https://womenofwicca.nl/events/hardware-hacking-101/</link>
-      <pubDate>Thu, 26 Mar 2020 18:00:00 +0200</pubDate>
-      
-      <guid>https://womenofwicca.nl/events/hardware-hacking-101/</guid>
-      <description>Thu, Mar 26, 6:00 PM to 9:00 PM Location: Amsterdam
-Stay tuned.</description>
-    </item>
-    
     <item>
       <title>Secura</title>
-      <link>https://womenofwicca.nl/events/secura/</link>
+      <link>https://www.meetup.com/wiccaNL/events/268057813/</link>
       <pubDate>Wed, 26 Feb 2020 18:00:00 +0200</pubDate>
       
-      <guid>https://womenofwicca.nl/events/secura/</guid>
-      <description>Wed, Feb 26, 6:00 PM to 9:00 PM Location: Amsterdam
-This meetup is organised by Secura.
-Stay tuned.</description>
+      <guid>https://www.meetup.com/wiccaNL/events/268057813/</guid>
+      <description>Wed, Feb 26, 6:00 PM to 9:00 PM Location: Amsterdam</description>
     </item>
     
     <item>
       <title>Digital Crime Scene Investigations</title>
-      <link>https://womenofwicca.nl/events/nfi/</link>
+      <link>https://www.meetup.com/wiccaNL/events/267315373/</link>
       <pubDate>Tue, 28 Jan 2020 18:00:00 +0200</pubDate>
       
-      <guid>https://womenofwicca.nl/events/nfi/</guid>
-      <description>Tue, Jan 28, 6:00 PM to 9:00 PM Location: Nederlands Forensisch Instituut
-Ever wondered what the life of a digital crime scene investigator looks like? Step into the world of the NFI this evening and experience a live criminal case where your digital forensics skills will be required!
-This meetup is organised by the Dutch Forensics Institute.
-Curious what it&amp;rsquo;s like to work at NFI? You will hear experience from two kick-ass ladies!</description>
+      <guid>https://www.meetup.com/wiccaNL/events/267315373/</guid>
+      <description>Tue, Jan 28, 6:00 PM to 9:00 PM Location: Nederlands Forensisch Instituut</description>
     </item>
     
   </channel>
