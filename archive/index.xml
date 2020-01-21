@@ -40,134 +40,101 @@
     
     <item>
       <title>WICCA Goes Hardwear!</title>
-      <link>https://womenofwicca.nl/archive/wicca-goes-hardwear/</link>
+      <link>https://www.meetup.com/wiccaNL/events/263860769/</link>
       <pubDate>Wed, 25 Sep 2019 18:00:00 +0200</pubDate>
       
-      <guid>https://womenofwicca.nl/archive/wicca-goes-hardwear/</guid>
-      <description>Wed, Sep 25, 6:00 PM to 9:00 PM Location: Hotel NH Den Haag
-Great news!!! The organisers of hardwear.io have invited us to their after-training reception for a great networking opportunity!
-Hardwear.io is the biggest hardware security conference in Europe, and possibly in the world. It is a platform where researchers showcase and discuss their innovative research on attacking and defending hardware.
-https://hardwear.io/netherlands-2019/
-This event takes place during the hardwear.</description>
+      <guid>https://www.meetup.com/wiccaNL/events/263860769/</guid>
+      <description>Wed, Sep 25, 6:00 PM to 9:00 PM Location: Hotel NH Den Haag</description>
     </item>
     
     <item>
       <title>Dutch Police: Fighting Cybercrime with OSINT</title>
-      <link>https://womenofwicca.nl/archive/dutch-police/</link>
+      <link>https://www.meetup.com/wiccaNL/events/262700959/</link>
       <pubDate>Mon, 23 Sep 2019 18:00:00 +0200</pubDate>
       
-      <guid>https://womenofwicca.nl/archive/dutch-police/</guid>
-      <description>Mon, Sep 23, 6:00 PM to 9:00 PM Location: Deloitte Amsterdam
-WICCA is going awol to a session organised together with the Dutch Police.
-This session is WOMEN-ONLY.
-Deloitte will be hosting us all with food and drinks.
-Would you like to know more about Open Source Intelligence (OSINT)? Have you ever wondered what it is like to work at the Dutch Police? Join us for the upcoming OSINT session with Lisette Abercrombie and Maike Borst!</description>
+      <guid>https://www.meetup.com/wiccaNL/events/262700959/</guid>
+      <description>Mon, Sep 23, 6:00 PM to 9:00 PM Location: Deloitte Amsterdam</description>
     </item>
     
     <item>
       <title>Secure Coding (... or the Art of Avoiding Data Breaches)</title>
-      <link>https://womenofwicca.nl/archive/secure-coding/</link>
+      <link>https://www.meetup.com/wiccaNL/events/261953551/</link>
       <pubDate>Fri, 30 Aug 2019 18:00:00 +0200</pubDate>
       
-      <guid>https://womenofwicca.nl/archive/secure-coding/</guid>
-      <description>Fri, Aug 30, 6:00 PM to 10:00 PM Location: Saturnusstraat 14
-WICCA is coming to The Hague for a session on secure coding and privacy-oriented software engineering. This session is organised together with Okuna and will cover the following topics: secure coding, privacy preservation, security and development.
-Okuna (previously Openbook) embodies the future of social media: a privacy-oriented and transparent platform that is secure by design, which strives for a better tomorrow for our online social circles.</description>
+      <guid>https://www.meetup.com/wiccaNL/events/261953551/</guid>
+      <description>Fri, Aug 30, 6:00 PM to 10:00 PM Location: Saturnusstraat 14</description>
     </item>
     
     <item>
       <title>Wick-Ed Offensive Security</title>
-      <link>https://womenofwicca.nl/archive/wick-ed-offensive-security/</link>
+      <link>https://www.meetup.com/wiccaNL/events/260336350/</link>
       <pubDate>Mon, 29 Jul 2019 18:00:00 +0200</pubDate>
       
-      <guid>https://womenofwicca.nl/archive/wick-ed-offensive-security/</guid>
-      <description>Slides can be found here Lesson recording on YouTube Mon, Jul 29, 6:00 PM to 9:00 PM Location: KPN Teleport
-WICCA kicks off a new initiative to teach ladies about security: Wick-Ed!
-Because of the high Offensive Security training demand, we will be doing the first Wick-Ed session on Offensive Security on July 29. KPN will be hosting us again and is providing food and drinks. For anyone who could not attend the 2-day training on May 25-26, this is the occasion to pick up on the basics of offsec!</description>
+      <guid>https://www.meetup.com/wiccaNL/events/260336350/</guid>
+      <description>Slides can be found here Lesson recording on YouTube Mon, Jul 29, 6:00 PM to 9:00 PM Location: KPN Teleport</description>
     </item>
     
     <item>
       <title>WICCA Drinks&amp;Stories</title>
-      <link>https://womenofwicca.nl/archive/drinks-stories-2/</link>
+      <link>https://www.meetup.com/wiccaNL/events/261475990/</link>
       <pubDate>Thu, 20 Jun 2019 10:00:00 +0200</pubDate>
       
-      <guid>https://womenofwicca.nl/archive/drinks-stories-2/</guid>
-      <description>Thu, Jun 20, 8:00 PM to 10:00 PM Location: Pllek
-WICCA is breaking into Amsterdam for some drinks and hacker stories. Are you a woman working or interested in computer security? Join us for some goofy hacker fun! Male +1s are welcome.
-The event will start 20:00 and the place to be is: Pllek, which is reachable by (free) ferry from Amsterdam Centraal station.
-Just a heads-up, every one should take care of their own consumption, as this is just a get-together event among fellow willing WICCA ladies.</description>
+      <guid>https://www.meetup.com/wiccaNL/events/261475990/</guid>
+      <description>Thu, Jun 20, 8:00 PM to 10:00 PM Location: Pllek</description>
     </item>
     
     <item>
       <title>Offensive Security 101</title>
-      <link>https://womenofwicca.nl/archive/offensive-security-101/</link>
+      <link>https://www.meetup.com/wiccaNL/events/259214015/</link>
       <pubDate>Sat, 25 May 2019 10:00:00 +0200</pubDate>
       
-      <guid>https://womenofwicca.nl/archive/offensive-security-101/</guid>
-      <description>Training slides can be found here Sat, May 25, 10:00 AM to Sun, May 26, 5:00 PM Location: Securify
-WICCA is giving a two-day training in Offensive Security especially for beginners. Securify is hosting us in their Sloterdijk office and will be providing lunch and Club Mate!
-The training will include:
- Basic infrastructure and web introduction Network vulnerability scanning Offensive Security tooling Web application pwnage OWASP Top 10 Kernel exploits A tiny bit about malware reversing A Hackback CTF-like game Demos and more demos!</description>
+      <guid>https://www.meetup.com/wiccaNL/events/259214015/</guid>
+      <description>Training slides can be found here Sat, May 25, 10:00 AM to Sun, May 26, 5:00 PM Location: Securify</description>
     </item>
     
     <item>
       <title>Kubernetes with WICCA &amp; null Amsterdam @Adyen</title>
-      <link>https://womenofwicca.nl/archive/kubernetes-wicca-null-adyen/</link>
+      <link>https://www.meetup.com/wiccaNL/events/260339876/</link>
       <pubDate>Mon, 13 May 2019 18:00:00 +0200</pubDate>
       
-      <guid>https://womenofwicca.nl/archive/kubernetes-wicca-null-adyen/</guid>
-      <description>Mon, May 13, 6:00 PM to 9:30 PM Location: Adyen
-This evening session is a joint meetup between WICCA and null hosted by Adyen, where members from both communities are happily invited to attend. Adyen is a global payment service provider based in Amsterdam. They will be providing food and drinks for all of us!!! 😄
-null is India&amp;rsquo;s largest open security community with chapters all over the world, including Amsterdam.</description>
+      <guid>https://www.meetup.com/wiccaNL/events/260339876/</guid>
+      <description>Mon, May 13, 6:00 PM to 9:30 PM Location: Adyen</description>
     </item>
     
     <item>
       <title>Hacking Hoomans</title>
-      <link>https://womenofwicca.nl/archive/hacking-hoomans/</link>
+      <link>https://www.meetup.com/wiccaNL/events/260107972/</link>
       <pubDate>Thu, 25 Apr 2019 18:00:00 +0200</pubDate>
       
-      <guid>https://womenofwicca.nl/archive/hacking-hoomans/</guid>
-      <description>Thu, Apr 25, 6:00 PM to 9:00 PM Location: Deloitte Amsterdam
- Humans are the weakest link in the information security chain. everyone in infosec
- This evening is hosted by Deloitte (thank you, Andrea!) and we will talk about all things physical security. Additionally, Deloitte will be providing food and drinks!
-Are you a woman interested or working in security? Sign up!
-This isn&amp;rsquo;t going to be a formal presentation but something more like a casual workshop where we share our fun social engineering experiences and talk about breaking into buildings.</description>
+      <guid>https://www.meetup.com/wiccaNL/events/260107972/</guid>
+      <description>Thu, Apr 25, 6:00 PM to 9:00 PM Location: Deloitte Amsterdam</description>
     </item>
     
     <item>
       <title>Into the FireEye</title>
-      <link>https://womenofwicca.nl/archive/fireeye/</link>
+      <link>https://www.meetup.com/wiccaNL/events/258617712/</link>
       <pubDate>Mon, 25 Mar 2019 07:57:12 +0200</pubDate>
       
-      <guid>https://womenofwicca.nl/archive/fireeye/</guid>
-      <description>Mon, Mar 25, 6:00 PM to 9:00 PM Location: Singel 236
-Are you a woman working or interested in computer security? Sign up!
-This time, FireEye is inviting the ladies of InfoSec and female security enthusiasts in The Netherlands for a casual get-together in Amsterdam.
-FireEye will be hosting us at their office by Dam Square and is providing drinks and snacks.
-The event is women-only and is meant to be a space where we can share, support, and learn with each other.</description>
+      <guid>https://www.meetup.com/wiccaNL/events/258617712/</guid>
+      <description>Mon, Mar 25, 6:00 PM to 9:00 PM Location: Singel 236</description>
     </item>
     
     <item>
       <title>WICCA Drinks&amp;Stories</title>
-      <link>https://womenofwicca.nl/archive/drinks-stories-1/</link>
+      <link>https://www.meetup.com/wiccaNL/events/258617885/</link>
       <pubDate>Fri, 22 Feb 2019 20:00:00 +0200</pubDate>
       
-      <guid>https://womenofwicca.nl/archive/drinks-stories-1/</guid>
-      <description>Fri, Feb 22, 8:00 PM to 10:00 PM Location: De Boterwaag
-WICCA is coming to The Hague for some drinks and hacker stories. Are you a woman working or interested in computer security? Join us for some goofy hacker fun!
-The event will start 20:00. We have reserved some space at Boterwaag on the Grote Markt.
-Do you have an interesting hacker story to tell? Something that happened to you or some cool h4x0r shizzle you did?</description>
+      <guid>https://www.meetup.com/wiccaNL/events/258617885/</guid>
+      <description>Fri, Feb 22, 8:00 PM to 10:00 PM Location: De Boterwaag</description>
     </item>
     
     <item>
       <title>The Ladies of InfoSec</title>
-      <link>https://womenofwicca.nl/archive/ladies-of-infosec/</link>
+      <link>https://www.meetup.com/wiccaNL/events/257314729/</link>
       <pubDate>Thu, 31 Jan 2019 18:00:00 +0200</pubDate>
       
-      <guid>https://womenofwicca.nl/archive/ladies-of-infosec/</guid>
-      <description>Thu, Jan 31, 6:00 PM to 9:00 PM Location: KPN Teleport
-Are you a woman working or interested in computer security? Sign up!
-It&amp;rsquo;s time to kickoff the WICCA initiative with a casual get together, inviting the ladies of InfoSec and female security enthusiasts in The Netherlands to join us in Amsterdam. We will introduce ourselves and present on computer security-related topics, but most of all, make bad crypto jokes.</description>
+      <guid>https://www.meetup.com/wiccaNL/events/257314729/</guid>
+      <description>Thu, Jan 31, 6:00 PM to 9:00 PM Location: KPN Teleport</description>
     </item>
     
   </channel>
