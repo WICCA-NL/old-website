@@ -10,7 +10,15 @@
     
 	<atom:link href="https://womenofwicca.nl/archive/index.xml" rel="self" type="application/rss+xml" />
     
-    
+    <item>
+      <title>Secura</title>
+      <link>https://www.meetup.com/wiccaNL/events/268057813/</link>
+      <pubDate>Wed, 26 Feb 2020 18:00:00 +0200</pubDate>
+      
+      <guid>https://www.meetup.com/wiccaNL/events/268057813/</guid>
+      <description>Wed, Feb 26, 6:00 PM to 9:00 PM Location: Amsterdam</description>
+    </item>
+
     <item>
       <title>Hack The Box NL</title>
       <link>https://www.meetup.com/wiccaNL/events/266042782/</link>
