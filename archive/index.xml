@@ -11,7 +11,16 @@
 	<atom:link href="https://womenofwicca.nl/archive/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Secura</title>
+      <title>Hardware Hacking 101</title>
+      <link>https://www.meetup.com/wiccaNL/events/269530181/</link>
+      <pubDate>Wed, Mar Feb 2020 18:00:00 +0200</pubDate>
+      
+      <guid>https://www.meetup.com/wiccaNL/events/269530181/</guid>
+      <description>Wed, Mar 26, 6:00 PM to 9:00 PM Location: Amsterdam</description>
+    </item>
+  
+    <item>
+      <title>WiFi Hacking with Secura</title>
       <link>https://www.meetup.com/wiccaNL/events/268057813/</link>
       <pubDate>Wed, 26 Feb 2020 18:00:00 +0200</pubDate>
       
