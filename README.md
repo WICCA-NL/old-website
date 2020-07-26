@@ -1,6 +1,6 @@
 # The official WICCA website
 
-_We're bulding something here..._
+_We built something here... now it's gone._
 
 ## Credits to [Yusuke Ishimi](https://github.com/naro143) for the awesome template! :sparkles:
 
